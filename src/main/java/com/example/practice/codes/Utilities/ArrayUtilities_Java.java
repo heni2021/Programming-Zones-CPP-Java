@@ -15,4 +15,10 @@ public class ArrayUtilities_Java {
         sc.close();
         return arr;
     }
+
+    public static void swapElementInIntArrayAtIndexes(int[] arr, int i, int j){
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
 }
