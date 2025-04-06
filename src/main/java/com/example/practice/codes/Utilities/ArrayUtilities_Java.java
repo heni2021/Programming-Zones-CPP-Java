@@ -12,7 +12,6 @@ public class ArrayUtilities_Java {
         for(int i=0;i<n;i++){
             arr[i] = sc.nextInt();
         }
-        sc.close();
         return arr;
     }
 
@@ -20,5 +19,13 @@ public class ArrayUtilities_Java {
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
+    }
+
+    public static void reverseElementsInArray(int[] arr, int startIndex, int endIndex){
+        while(startIndex < endIndex){
+            swapElementInIntArrayAtIndexes(arr, startIndex, endIndex);
+            startIndex++;
+            endIndex--;
+        }
     }
 }
