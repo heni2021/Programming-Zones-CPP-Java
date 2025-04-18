@@ -23,9 +23,7 @@ public class ArrayUtilities_Java {
 
     public static void reverseElementsInArray(int[] arr, int startIndex, int endIndex){
         while(startIndex < endIndex){
-            swapElementInIntArrayAtIndexes(arr, startIndex, endIndex);
-            startIndex++;
-            endIndex--;
+            swapElementInIntArrayAtIndexes(arr, startIndex++, endIndex--);
         }
     }
 }
