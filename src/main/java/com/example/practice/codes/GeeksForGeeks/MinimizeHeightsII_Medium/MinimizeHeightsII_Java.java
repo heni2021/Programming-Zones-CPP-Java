@@ -14,7 +14,7 @@ public class MinimizeHeightsII_Java {
 
         int height = getMinimumHeightDifferencBruteForce(a, k);
         System.out.println("Height diff - "+height);
-
+        sc.close();
     }
 
     /**
