@@ -31,6 +31,10 @@ public class ArrayUtilities_Java {
         return Math.max(a, Math.max(b,c));
     }
 
+    public static int maxNumberOfFour(int a, int b, int c, int d){
+            return Math.max(a, Math.max(b,Math.max(c, d)));
+        }
+
     public static int minNumberOfThree(int a, int b, int c){
         return Math.min(a, Math.min(b,c));
     }
