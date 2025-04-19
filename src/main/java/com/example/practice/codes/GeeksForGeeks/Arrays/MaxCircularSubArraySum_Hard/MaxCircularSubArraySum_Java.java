@@ -12,6 +12,14 @@ public class MaxCircularSubArraySum_Java {
         System.out.println("Maximum circular subarray sum - "+maxCircularSum);
     }
 
+    /**
+     * Brute Force
+     * Find all possibilites and compute max sum of the circular subarray.
+     * @timeComplexity:O(n^2)
+     * @spaceComplexity:O(1)
+     * @param a
+     * @return
+     */
     private static int computeMaxSumBruteForce(int[] a){
         int maxSum = 0;
         for (int i = 0; i < a.length; i++) {
