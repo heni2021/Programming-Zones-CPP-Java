@@ -1,5 +1,5 @@
 // Link - https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/move-all-zeroes-to-end-of-array0751
-package com.example.practice.codes.GeeksForGeeks.MoveAllZerosToEnd_Easy;
+package com.example.practice.codes.GeeksForGeeks.Arrays.MoveAllZerosToEnd_Easy;
 
 import java.util.Arrays;
 

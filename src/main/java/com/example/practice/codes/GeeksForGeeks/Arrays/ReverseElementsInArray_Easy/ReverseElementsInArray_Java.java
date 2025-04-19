@@ -1,5 +1,5 @@
 // Link : https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array
-package com.example.practice.codes.GeeksForGeeks.ReverseElementsInArray_Easy;
+package com.example.practice.codes.GeeksForGeeks.Arrays.ReverseElementsInArray_Easy;
 
 import java.util.Arrays;
 

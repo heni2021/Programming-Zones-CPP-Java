@@ -1,4 +1,4 @@
-package com.example.practice.codes.GeeksForGeeks.MinimizeHeightsII_Medium;
+package com.example.practice.codes.GeeksForGeeks.Arrays.MinimizeHeightsII_Medium;
 
 import java.util.Arrays;
 import java.util.Scanner;

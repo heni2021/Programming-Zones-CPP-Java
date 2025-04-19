@@ -1,4 +1,4 @@
-package com.example.practice.codes.GeeksForGeeks.MaximumSumSubArray_Medium;
+package com.example.practice.codes.GeeksForGeeks.Arrays.MaximumSumSubArray_Medium;
 
 import static com.example.practice.codes.Utilities.ArrayUtilities_Java.scanIntArray;
 

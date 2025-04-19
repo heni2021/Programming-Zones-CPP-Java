@@ -1,4 +1,4 @@
-package com.example.practice.codes.GeeksForGeeks.MajorityElementInArrayII_Medium;
+package com.example.practice.codes.GeeksForGeeks.Arrays.MajorityElementInArrayII_Medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;

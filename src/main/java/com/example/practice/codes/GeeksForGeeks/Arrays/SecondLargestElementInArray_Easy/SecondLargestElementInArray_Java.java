@@ -1,5 +1,5 @@
 // Link - https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735
-package com.example.practice.codes.GeeksForGeeks.SecondLargestElementInArray_Easy;
+package com.example.practice.codes.GeeksForGeeks.Arrays.SecondLargestElementInArray_Easy;
 
 import java.util.Arrays;
 import java.util.Scanner;

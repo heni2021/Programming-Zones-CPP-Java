@@ -1,4 +1,4 @@
-package com.example.practice.codes.GeeksForGeeks.RotateArray_Medium;
+package com.example.practice.codes.GeeksForGeeks.Arrays.RotateArray_Medium;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -26,4 +26,12 @@ public class ArrayUtilities_Java {
             swapElementInIntArrayAtIndexes(arr, startIndex++, endIndex--);
         }
     }
+
+    public static int maxNumberOfThree(int a, int b, int c){
+        return Math.max(a, Math.max(b,c));
+    }
+
+    public static int minNumberOfThree(int a, int b, int c){
+        return Math.min(a, Math.min(b,c));
+    }
 }

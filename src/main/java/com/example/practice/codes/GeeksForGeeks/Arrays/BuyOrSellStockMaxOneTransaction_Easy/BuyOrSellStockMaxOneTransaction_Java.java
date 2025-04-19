@@ -1,4 +1,4 @@
-package com.example.practice.codes.GeeksForGeeks.BuyOrSellStockMaxOneTransaction_Easy;
+package com.example.practice.codes.GeeksForGeeks.Arrays.BuyOrSellStockMaxOneTransaction_Easy;
 
 import static com.example.practice.codes.Utilities.ArrayUtilities_Java.scanIntArray;
 

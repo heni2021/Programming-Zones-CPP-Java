@@ -1,4 +1,4 @@
-package com.example.practice.codes.GeeksForGeeks.BuyOrSellStockMultipleTransactionAllowed_Medium;
+package com.example.practice.codes.GeeksForGeeks.Arrays.BuyOrSellStockMultipleTransactionAllowed_Medium;
 
 import static com.example.practice.codes.Utilities.ArrayUtilities_Java.scanIntArray;
 

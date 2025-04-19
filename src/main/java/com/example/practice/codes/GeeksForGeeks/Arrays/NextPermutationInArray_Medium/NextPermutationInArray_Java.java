@@ -1,4 +1,4 @@
-package com.example.practice.codes.GeeksForGeeks.NextPermutationInArray_Medium;
+package com.example.practice.codes.GeeksForGeeks.Arrays.NextPermutationInArray_Medium;
 
 import java.util.Arrays;
 
