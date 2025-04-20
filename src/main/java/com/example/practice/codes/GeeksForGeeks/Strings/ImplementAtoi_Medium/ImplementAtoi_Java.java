@@ -2,7 +2,7 @@ package com.example.practice.codes.GeeksForGeeks.Strings.ImplementAtoi_Medium;
 
 import java.util.Scanner;
 
-public class ImplementAtoi_Medium {
+public class ImplementAtoi_Java {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
