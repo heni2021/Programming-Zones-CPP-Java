@@ -87,3 +87,4 @@ public class ImplementAtoi_Medium {
 // "    -"
 // "000345"
 // " --678"
+// " -748dhgfd90"
