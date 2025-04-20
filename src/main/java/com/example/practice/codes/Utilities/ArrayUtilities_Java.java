@@ -38,4 +38,22 @@ public class ArrayUtilities_Java {
     public static int minNumberOfThree(int a, int b, int c){
         return Math.min(a, Math.min(b,c));
     }
+
+    public static String reverseString(String s){
+        int i =0, j = s.length()-1;
+        char[] c = s.toCharArray();
+        while(i<j){
+            swapCharsAtIndexes(c, i, j);
+            i++;
+            j--;
+        }
+
+        return new String(c);
+    }
+
+    public static void swapCharsAtIndexes(char[] chars, int i, int j){
+        char temp = chars[i];
+        chars[i] = chars[j];
+        chars[j] = temp;
+    }
 }
