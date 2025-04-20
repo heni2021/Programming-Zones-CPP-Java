@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added version control">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Strings/Anagrams_Easy/Anagrams_Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to find that is string is anagram or not in java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,13 +91,22 @@
       <option name="project" value="LOCAL" />
       <updated>1745132435650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added code to find that is string is anagram or not in java">
+      <option name="closed" value="true" />
+      <created>1745140197350</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745140197350</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added java code to move all zeros to end" />
     <MESSAGE value="Added version control" />
     <MESSAGE value="Added code to compute sum of binary strings in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to compute sum of binary strings in java" />
+    <MESSAGE value="Added code to find that is string is anagram or not in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to find that is string is anagram or not in java" />
   </component>
 </project>
