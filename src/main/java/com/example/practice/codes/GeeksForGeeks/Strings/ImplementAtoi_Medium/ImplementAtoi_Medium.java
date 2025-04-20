@@ -1,6 +1,5 @@
 package com.example.practice.codes.GeeksForGeeks.Strings.ImplementAtoi_Medium;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class ImplementAtoi_Medium {
