@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to first non-repeating character in string in java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Strings/NonRepeatingCharacter_Easy/NonRepeatingCharacters_Cpp.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Strings/NonRepeatingCharacter_Easy/NonRepeatingCharacters_Java.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Strings/CheckIfStringRotated_Easy/CheckIfStringRotated_Java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +41,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Anagrams_Java.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckIfStringRotated_Java.executor&quot;: &quot;Run&quot;,
     &quot;Application.MoveAllZerosToEndInArray_Java.executor&quot;: &quot;Run&quot;,
     &quot;Application.NonRepeatingCharacters_Java.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseElementsInArray_Java.executor&quot;: &quot;Run&quot;,
@@ -123,5 +123,20 @@
     <MESSAGE value="Added code to find that is string is anagram or not in java" />
     <MESSAGE value="Added code to first non-repeating character in string in java" />
     <option name="LAST_COMMIT_MESSAGE" value="Added code to first non-repeating character in string in java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Strings/CheckIfStringRotated_Easy/CheckIfStringRotated_Java.java</url>
+          <line>76</line>
+          <properties class="com.example.practice.codes.GeeksForGeeks.Strings.CheckIfStringRotated_Easy.CheckIfStringRotated_Java" method="checkIfStringsAreRotatedOptimisedApproach">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
