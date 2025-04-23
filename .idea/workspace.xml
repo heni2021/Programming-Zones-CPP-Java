@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to check if string is rotated in java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Strings/SearchPatternsUsingKMP_Medium/SearchPatternsUsingKMP_Java.java" afterDir="false" />
+    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to search all occurences of pattern in txt in java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Strings/SearchPatternsUsingKMP_Medium/SearchPatternsUsingKMP_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Strings/SearchPatternsUsingKMP_Hard/SearchPatternsUsingKMP_Java.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745243666613</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added code to search all occurences of pattern in txt in java">
+      <option name="closed" value="true" />
+      <created>1745414182573</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745414182573</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -132,6 +140,7 @@
     <MESSAGE value="Added code to find that is string is anagram or not in java" />
     <MESSAGE value="Added code to first non-repeating character in string in java" />
     <MESSAGE value="Added code to check if string is rotated in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to check if string is rotated in java" />
+    <MESSAGE value="Added code to search all occurences of pattern in txt in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to search all occurences of pattern in txt in java" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.example.practice.codes.GeeksForGeeks.Strings.SearchPatternsUsingKMP_Medium;
+package com.example.practice.codes.GeeksForGeeks.Strings.SearchPatternsUsingKMP_Hard;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -38,7 +38,6 @@ public class SearchPatternsUsingKMP_Java {
                 if(j == pat.length() && i!=txt.length()){
                     patternIndexes.add(i-pat.length());
                     j=lps[j-1];
-                    i--;
                 }
             }
              if(i<txt.length() && txt.charAt(i)  != pat.charAt(j)){
