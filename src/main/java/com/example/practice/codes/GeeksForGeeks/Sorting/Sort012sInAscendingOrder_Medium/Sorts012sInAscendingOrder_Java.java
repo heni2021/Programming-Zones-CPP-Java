@@ -19,7 +19,7 @@ public class Sorts012sInAscendingOrder_Java {
     /**
      * Brute Force
      * Count frequencies of 0's 1's and 2's and fill the array accordingly.
-     * @timeComplext:O(n)
+     * @timeComplexity:O(n)
      * @spaceComplexity:O(1)
      * @param a
      */
@@ -56,14 +56,7 @@ public class Sorts012sInAscendingOrder_Java {
      */
 
     private static void sortArrayOptimised(int[] a){
-        int start = 0, end = a.length-1, mid = a.length/2;
-        while(a[start]==0){
-            start++;
-        }
-        while(a[end] == 2){
-            end--;
-        }
-
+        int start = 0, end = a.length-1, mid =0;
         while(mid<=end){
             if(a[mid] == 0){
                 swapElementInIntArrayAtIndexes(a, start, mid);
@@ -74,7 +67,7 @@ public class Sorts012sInAscendingOrder_Java {
                 swapElementInIntArrayAtIndexes(a, mid, end);
                 end--;
             }
-            else if(a[mid] == 1){
+            else{
                 mid++;
             }
         }

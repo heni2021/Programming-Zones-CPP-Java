@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to compute min chars to make palindrome in cpp">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Sorting/Sort012sInAscendingOrder_Medium/Sorts012sInAscendingOrder_Java.java" afterDir="false" />
+    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to sort 0s 1s and 2s in java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Sorting/Sort012sInAscendingOrder_Medium/Sorts012sInAscendingOrder_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Sorting/Sort012sInAscendingOrder_Medium/Sorts012sInAscendingOrder_Java.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745650430757</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added code to sort 0s 1s and 2s in java">
+      <option name="closed" value="true" />
+      <created>1745660252784</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745660252784</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +198,7 @@
     <MESSAGE value="Added code to search all occurences of pattern in txt in cpp" />
     <MESSAGE value="Added code to compute min chars to make palindrome in java" />
     <MESSAGE value="Added code to compute min chars to make palindrome in cpp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to compute min chars to make palindrome in cpp" />
+    <MESSAGE value="Added code to sort 0s 1s and 2s in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to sort 0s 1s and 2s in java" />
   </component>
 </project>
