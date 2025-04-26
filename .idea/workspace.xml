@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to search all occurences of pattern in txt in java">
+    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to search all occurences of pattern in txt in cpp">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Strings/MinCharsToMakePalindrome_Hard/MinCharsToMakePalindrome_Java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Strings/SearchPatternsUsingKMP_Medium/SearchPatternsUsingKMP_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Strings/SearchPatternsUsingKMP_Hard/SearchPatternsUsingKMP_Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/Utilities/ArrayUtilities_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/Utilities/ArrayUtilities_Java.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
   "keyToString": {
     "Application.Anagrams_Java.executor": "Run",
     "Application.CheckIfStringRotated_Java.executor": "Run",
+    "Application.MinCharsToMakePalindrome_Java.executor": "Run",
     "Application.MoveAllZerosToEndInArray_Java.executor": "Run",
     "Application.NonRepeatingCharacters_Java.executor": "Run",
     "Application.ReverseElementsInArray_Java.executor": "Run",
@@ -58,6 +60,26 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="MinCharsToMakePalindrome_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.practice.codes.GeeksForGeeks.Strings.MinCharsToMakePalindrome_Hard.MinCharsToMakePalindrome_Java" />
+      <module name="Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.practice.codes.GeeksForGeeks.Strings.MinCharsToMakePalindrome_Hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinCharsToMakePalindrome_Java" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -130,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745414182573</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added code to search all occurences of pattern in txt in cpp">
+      <option name="closed" value="true" />
+      <created>1745415000456</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745415000456</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +171,7 @@
     <MESSAGE value="Added code to first non-repeating character in string in java" />
     <MESSAGE value="Added code to check if string is rotated in java" />
     <MESSAGE value="Added code to search all occurences of pattern in txt in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to search all occurences of pattern in txt in java" />
+    <MESSAGE value="Added code to search all occurences of pattern in txt in cpp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to search all occurences of pattern in txt in cpp" />
   </component>
 </project>

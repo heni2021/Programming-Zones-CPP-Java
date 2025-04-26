@@ -56,4 +56,15 @@ public class ArrayUtilities_Java {
         chars[i] = chars[j];
         chars[j] = temp;
     }
+
+    public static boolean isPalindromeString(String s, int start, int end){
+        while(start<end){
+            if(s.charAt(start) != s.charAt(end)){
+                return false;
+            }
+            start++;
+            end --;
+        }
+        return true;
+    }
 }
