@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to count inversions in array in java" />
+    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to count inversions in array in cpp">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Sorting/MergeOverlappingIntervals_Medium/MergeOverlappingInterval_Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/Utilities/ArrayUtilities_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/Utilities/ArrayUtilities_Java.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +45,7 @@
     "Application.CheckIfStringRotated_Java.executor": "Run",
     "Application.CountInversions_Java.executor": "Run",
     "Application.HIndex_Java.executor": "Run",
+    "Application.MergeOverlappingInterval_Java.executor": "Run",
     "Application.MinCharsToMakePalindrome_Java.executor": "Run",
     "Application.MoveAllZerosToEndInArray_Java.executor": "Run",
     "Application.NonRepeatingCharacters_Java.executor": "Run",
@@ -59,7 +64,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CountInversions_Java">
+  <component name="RunManager" selected="Application.MergeOverlappingInterval_Java">
     <configuration name="CountInversions_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.practice.codes.GeeksForGeeks.Sorting.CountInversions_Medium.CountInversions_Java" />
       <module name="Codes" />
@@ -86,6 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MergeOverlappingInterval_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.practice.codes.GeeksForGeeks.Sorting.MergeOverlappingIntervals_Medium.MergeOverlappingInterval_Java" />
+      <module name="Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.practice.codes.GeeksForGeeks.Sorting.MergeOverlappingIntervals_Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MinCharsToMakePalindrome_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.practice.codes.GeeksForGeeks.Strings.MinCharsToMakePalindrome_Hard.MinCharsToMakePalindrome_Java" />
       <module name="Codes" />
@@ -101,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeOverlappingInterval_Java" />
         <item itemvalue="Application.CountInversions_Java" />
         <item itemvalue="Application.HIndex_Java" />
         <item itemvalue="Application.MinCharsToMakePalindrome_Java" />
@@ -251,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745755430508</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added code to count inversions in array in cpp">
+      <option name="closed" value="true" />
+      <created>1745755745944</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1745755745944</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -270,6 +297,7 @@
     <MESSAGE value="Added code to compute HIndex in java" />
     <MESSAGE value="Added code to compute HIndex in cpp" />
     <MESSAGE value="Added code to count inversions in array in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to count inversions in array in java" />
+    <MESSAGE value="Added code to count inversions in array in cpp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to count inversions in array in cpp" />
   </component>
 </project>

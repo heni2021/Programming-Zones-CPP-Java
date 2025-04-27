@@ -15,6 +15,22 @@ public class ArrayUtilities_Java {
         return arr;
     }
 
+    public static int[][] scanTwoDIntArray(){
+        int n, m;
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter n = ");
+        n = sc.nextInt();
+        System.out.print("Enter m = ");
+        m = sc.nextInt();
+        int[][] arr = new int[n][m];
+        for(int i=0;i<n;i++){
+            for (int j = 0; j < m; j++) {
+                arr[i][j] = sc.nextInt();
+            }
+        }
+        return arr;
+    }
+
     public static void swapElementInIntArrayAtIndexes(int[] arr, int i, int j){
         int temp = arr[i];
         arr[i] = arr[j];
