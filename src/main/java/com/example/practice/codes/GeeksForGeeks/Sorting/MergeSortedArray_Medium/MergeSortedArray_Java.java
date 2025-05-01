@@ -3,14 +3,13 @@ package com.example.practice.codes.GeeksForGeeks.Sorting.MergeSortedArray_Medium
 import java.util.Arrays;
 
 import static com.example.practice.codes.Utilities.ArrayUtilities_Java.scanIntArray;
-import static com.example.practice.codes.Utilities.ArrayUtilities_Java.swapElementInIntArrayAtIndexes;
 
 public class MergeSortedArray_Java {
     public static void main(String[] args) {
         int[] a = scanIntArray();
         int[] b = scanIntArray();
 
-//        mergeArraysBruteForce(a,b);
+        mergeArraysBruteForce(a,b);
         mergeArrayWithoutExtraSpace(a,b);
         System.out.println(Arrays.toString(a));
         System.out.println(Arrays.toString(b));
