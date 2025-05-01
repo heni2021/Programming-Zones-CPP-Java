@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to merge overlapping intervals in java" />
+    <list default="true" id="8dc1bc39-9883-4a4d-84f3-4de05d1ab5fe" name="Changes" comment="Added code to merge overlapping intervals in cpp">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/practice/codes/GeeksForGeeks/Sorting/MergeAndInsertInterval_Medium/MergeAndInsertInterval_Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +44,7 @@
     "Application.CheckIfStringRotated_Java.executor": "Run",
     "Application.CountInversions_Java.executor": "Run",
     "Application.HIndex_Java.executor": "Run",
+    "Application.MergeAndInsertInterval_Java.executor": "Run",
     "Application.MergeOverlappingInterval_Java.executor": "Run",
     "Application.MinCharsToMakePalindrome_Java.executor": "Run",
     "Application.MoveAllZerosToEndInArray_Java.executor": "Run",
@@ -60,7 +64,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MergeOverlappingInterval_Java">
+  <component name="RunManager" selected="Application.MergeAndInsertInterval_Java">
     <configuration name="CountInversions_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.practice.codes.GeeksForGeeks.Sorting.CountInversions_Medium.CountInversions_Java" />
       <module name="Codes" />
@@ -80,6 +84,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.practice.codes.GeeksForGeeks.Sorting.HIndex_Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeAndInsertInterval_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.practice.codes.GeeksForGeeks.Sorting.MergeAndInsertInterval_Medium.MergeAndInsertInterval_Java" />
+      <module name="Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.practice.codes.GeeksForGeeks.Sorting.MergeAndInsertInterval_Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeAndInsertInterval_Java" />
         <item itemvalue="Application.MergeOverlappingInterval_Java" />
         <item itemvalue="Application.CountInversions_Java" />
         <item itemvalue="Application.HIndex_Java" />
@@ -282,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745758238836</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added code to merge overlapping intervals in cpp">
+      <option name="closed" value="true" />
+      <created>1745758814535</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1745758814535</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -303,6 +329,7 @@
     <MESSAGE value="Added code to count inversions in array in java" />
     <MESSAGE value="Added code to count inversions in array in cpp" />
     <MESSAGE value="Added code to merge overlapping intervals in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to merge overlapping intervals in java" />
+    <MESSAGE value="Added code to merge overlapping intervals in cpp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to merge overlapping intervals in cpp" />
   </component>
 </project>
