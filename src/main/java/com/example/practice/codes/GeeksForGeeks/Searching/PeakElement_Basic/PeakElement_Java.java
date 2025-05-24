@@ -48,6 +48,8 @@ public class PeakElement_Java {
      * If I get a[mid] > a[mid+1] ---> guaranteed peak element is in right so shift low.
      * else peak element is in left so shift high.
      * Iterate loop while low <= high
+     * @timeComplexity:O(logn)
+     * @spaceComplexity:O(1)
      */
 
     private static int findPeakElementUsingBinarySearch(int[] arr){
