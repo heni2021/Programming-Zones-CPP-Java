@@ -2,16 +2,10 @@ package com.example.practice.codes.Patterns.InvertedHalfPyramidRotatedBy180Degre
 
 import java.util.Scanner;
 /*
- *
- **
- ***
+    *
+   **
+  ***
  ****
- *****
- ******
- *******
- ********
- *********
- **********
  */
 public class InvertedHalfPyramidRotatedBy180Degree_Java {
     public static void main(String[] args) {
