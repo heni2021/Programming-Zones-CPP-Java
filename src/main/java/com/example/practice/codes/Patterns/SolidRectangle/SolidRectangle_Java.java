@@ -1,0 +1,18 @@
+package com.example.practice.codes.Patterns.SolidRectangle;
+
+import java.util.Scanner;
+
+public class SolidRectangle_Java {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int m = sc.nextInt();
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+        sc.close();
+    }
+}
