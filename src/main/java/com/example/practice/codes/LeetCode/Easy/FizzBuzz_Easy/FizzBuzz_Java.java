@@ -14,6 +14,10 @@ public class FizzBuzz_Java {
         sc.close();
     }
 
+    /**
+     * @timeComplexity : O(n)
+     * @spaceComplexity : O(1)
+     */
     private static List<String> createFizzBuzzArray(int n) {
         List<String> result = new ArrayList<>();
         for(int i=1;i<=n;i++){
