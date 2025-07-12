@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150
-package com.example.practice.codes.LeetCode.MergeSortArrayInSingleArray_Easy;
+package com.example.practice.codes.LeetCode.Easy.MergeSortArrayInSingleArray_Easy;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -14,7 +14,7 @@ public class MergeSortedArray_Java {
         int n = sc.nextInt();
         int m = sc.nextInt();
 
-        mergeUsingBruteForce(a, n, b, m);
+        mergeUsingBruteForce(a, b, m);
         merge(a, n, b, m);
 
         System.out.println(Arrays.toString(a));
@@ -26,7 +26,7 @@ public class MergeSortedArray_Java {
      * @timeComplexity:O(nlogn+m)
      * @spaceComplexity:O(1)
      */
-    private static void mergeUsingBruteForce(int[] a, int n, int[] b, int m){
+    private static void mergeUsingBruteForce(int[] a, int[] b, int m){
         int k = a.length-1;
         for(int i = m-1; i>=0;i--){
             a[k]  = b[i];

@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/add-two-numbers/description/
-package com.example.practice.codes.LeetCode.AddTwoNumbersInTwoSinglyLinkedList_Medium;
+package com.example.practice.codes.LeetCode.Medium.AddTwoNumbersInTwoSinglyLinkedList_Medium;
 
 import com.example.practice.codes.Utilities.ListNode;
 

@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150
-package com.example.practice.codes.LeetCode.RemoveElementInSortedArray_Easy;
+package com.example.practice.codes.LeetCode.Easy.RemoveElementInSortedArray_Easy;
 
 import static com.example.practice.codes.Utilities.ArrayUtilities_Java.scanIntArray;
 import static com.example.practice.codes.Utilities.ArrayUtilities_Java.swapElementInIntArrayAtIndexes;

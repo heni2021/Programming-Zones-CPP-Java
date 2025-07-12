@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
-package com.example.practice.codes.LeetCode.LongestSubstringWithoutRepeatingCharacters_Medium;
+package com.example.practice.codes.LeetCode.Medium.LongestSubstringWithoutRepeatingCharacters_Medium;
 
 import java.util.HashSet;
 import java.util.Scanner;

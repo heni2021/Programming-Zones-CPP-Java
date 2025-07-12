@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/remove-element/description/?source=submission-noac
-package com.example.practice.codes.LeetCode.RemoveElement_Easy;
+package com.example.practice.codes.LeetCode.Easy.RemoveElement_Easy;
 
 import java.util.Arrays;
 import java.util.Scanner;

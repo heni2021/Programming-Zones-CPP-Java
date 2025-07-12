@@ -1,4 +1,4 @@
-package com.example.practice.codes.LeetCode.RemoveElementInSortedArrayII_Medium;
+package com.example.practice.codes.LeetCode.Medium.RemoveElementInSortedArrayII_Medium;
 
 import java.util.Arrays;
 import java.util.HashMap;
