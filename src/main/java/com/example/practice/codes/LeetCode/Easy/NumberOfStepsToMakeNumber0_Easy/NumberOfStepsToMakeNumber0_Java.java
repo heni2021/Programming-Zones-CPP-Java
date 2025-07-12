@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/
 package com.example.practice.codes.LeetCode.Easy.NumberOfStepsToMakeNumber0_Easy;
 
 import java.util.Scanner;
@@ -11,6 +12,10 @@ public class NumberOfStepsToMakeNumber0_Java {
         sc.close();
     }
 
+    /**
+     * @timeComplexity : O(n)
+     * @spaceComplexity : O(1)
+     */
     private static int computeNumberOfSteps(int n) {
         int count = 0;
         while(n!=0){
