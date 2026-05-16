@@ -10,6 +10,7 @@ public class TwoSumII {
        int[] nums = ArrayUtilities_Java.scanIntArray();
        Scanner sc = new Scanner(System.in);
        int target = sc.nextInt();
+       
        int[] elements = twoSum(nums, target);
        System.out.println(Arrays.toString(elements));
        sc.close();
@@ -36,8 +37,8 @@ public class TwoSumII {
             } else if(sum < target){
                 i++;
             } else {
-                result[0] = i;
-                result[1] = j;
+                result[0] = i+1;
+                result[1] = j+1;
                 break;
             }
         }
