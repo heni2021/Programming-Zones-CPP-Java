@@ -3,7 +3,6 @@ package com.example.practice.codes.CodingPatterns.TwoPointers;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
 
 import com.example.practice.codes.Utilities.ArrayUtilities_Java;
 
